@@ -1,4 +1,5 @@
 🎉 Cultural Tapestry: An Interactive Indian Festival & Tourism Dashboard
+
 🌟 Project Overview
 Cultural Tapestry is an interactive, data-driven dashboard that bridges the gap between India's vibrant cultural festivals and its dynamic tourism landscape. It offers a centralized platform to explore Indian festivals, understand their geographical distribution, and analyze their impact on tourist footfall.
 
