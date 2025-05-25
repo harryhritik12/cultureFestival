@@ -1,5 +1,3 @@
-Sure, here's a comprehensive README.md file for your "Cultural Tapestry" project, tailored for a Snowflake Hackathon submission.
-
 Cultural Tapestry: An Interactive Indian Festival & Tourism Dashboard
 🌟 Project Overview
 Cultural Tapestry is an interactive, data-driven dashboard designed to bridge the gap between India's rich cultural festivals and its dynamic tourism landscape. This project aims to provide a centralized and intuitive platform for anyone interested in exploring Indian festivals, understanding their geographical distribution, and analyzing their associated impact on tourist footfall.
