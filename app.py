@@ -43,7 +43,7 @@ def get_festivals_by_month(month):
         
         if not df.empty:
             df.columns = ['Id', 'Day', 'Date', 'Year', 'Festival_Name']
-            df['Date'] = pd.to_datetime(df['Date']).dt.strftime('%Y-%m-%d')
+            df['Date'] = pd.to_datetime(df['Date'], errors='coerce').dt.strftime('%Y-%m-%d')
         else:
             st.warning(f"No festivals found for {month}")
             
